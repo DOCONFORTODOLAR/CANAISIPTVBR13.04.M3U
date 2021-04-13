@@ -34,7 +34,7 @@ https://stmv1.srvst.com/milktv/milktv/chunklist_w1660464678.m3u8
 
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",sport 2
-https://github.com/DOCONFORTODOLAR/CANAISIPTVBR13.04.M3U/blob/main/README.md
+https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/y9akeii5j1vln04.m3u8?s=wqJnIgTtMEePMx905GTu3Q&e=1618370853
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",sport 3
 https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/8f1kseas.m3u8?s=Qouq414HLczo4vdKz5TysA&e=1618370635
