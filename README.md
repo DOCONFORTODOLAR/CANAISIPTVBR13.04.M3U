@@ -42,7 +42,8 @@ https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/8f1kseas.m3u8?s=Qouq414HLczo4vdKz
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TNT
 https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/p3rclv2sws4pye.m3u8?s=U84tgP10ba3ATkdKF-VT9Q&e=1618371149
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CANAIS PREMIERE
+https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/h4ty9w1z.m3u8?s=xpu4pknL7n6rueE6gSPgUA&e=1618371446
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
