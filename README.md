@@ -33,10 +33,11 @@ https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(Fl-P4U3zMe8)r(fVR9ug)a(v_M_QA)p(d(
 https://stmv1.srvst.com/milktv/milktv/chunklist_w1660464678.m3u8
 
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",sport
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",sport 2
 https://github.com/DOCONFORTODOLAR/CANAISIPTVBR13.04.M3U/blob/main/README.md
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",sport 3
+https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/8f1kseas.m3u8?s=Qouq414HLczo4vdKz5TysA&e=1618370635
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
