@@ -20,7 +20,8 @@ https://evpp.mm.uol.com.br/geob_band/band/chunklist_w846543000.m3u8
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title"", SBT PR REDE MASSA
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w2050874003.m3u8
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV GAZETA MA
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w104250261.m3u8
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
