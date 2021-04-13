@@ -8,7 +8,8 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playli
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",REDE TV PB
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w6112366_b1125752.m3u8
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
