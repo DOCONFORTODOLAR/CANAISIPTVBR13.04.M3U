@@ -45,6 +45,7 @@ https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/p3rclv2sws4pye.m3u8?s=U84tgP10ba3
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CANAIS PREMIERE
 https://xtqdq3n2bma4nqg6.ezcdn383.net:8443/hls/h4ty9w1z.m3u8?s=xpu4pknL7n6rueE6gSPgUA&e=1618371446
 
+
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
