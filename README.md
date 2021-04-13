@@ -23,7 +23,8 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w20508740
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV GAZETA MA
 http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w104250261.m3u8
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",CINE LIVRE
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
