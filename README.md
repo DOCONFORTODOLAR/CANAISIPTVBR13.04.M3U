@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",RECORD BAHIA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",RECORD NATAL
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",REDE TV PB
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w6112366_b1125752.m3u8
+
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+
+
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
 EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
