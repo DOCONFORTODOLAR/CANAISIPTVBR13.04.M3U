@@ -17,7 +17,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",BAND
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w846543000.m3u8
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title"", SBT PR REDE MASSA
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w2050874003.m3u8
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
