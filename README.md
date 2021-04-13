@@ -33,7 +33,8 @@ https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(Fl-P4U3zMe8)r(fVR9ug)a(v_M_QA)p(d(
 https://stmv1.srvst.com/milktv/milktv/chunklist_w1660464678.m3u8
 
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",sport
+https://github.com/DOCONFORTODOLAR/CANAISIPTVBR13.04.M3U/blob/main/README.md
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
