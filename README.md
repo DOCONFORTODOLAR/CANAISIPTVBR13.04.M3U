@@ -29,7 +29,9 @@ https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV BRASIL
 https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(Fl-P4U3zMe8)r(fVR9ug)a(v_M_QA)p(d(2xc)k(q8Q)m(4NwvhlktJESExNspSqd9fw)n(a(IsvvmQ)s(UQ4)'a(1F2Ayg)s(izg)))s(s(YjY)b(So8_sTv9zORrEiUW5WXS4LuPvrP_lwc7anksQ_s5-_ROV3M7FpHipBiMdZSDGSr_yL73knzNJ5XyV_-G9w)'s(a0Q)b(LghXIjllzK0j7DcOWjjnE8OkVF7dXZHUcslH8NgZSqyQPZCGgAjRxJBAYeLE7Nvvg5PzhD4RzTd0pd1gW8oPFFzvkSYZm7Hvp1wCLnk_)'s(VbA)b(0CFY0I50))m(0))/28_index.m3u8
 
-#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",TV MAUÁ ONLINE
+https://stmv1.srvst.com/milktv/milktv/chunklist_w1660464678.m3u8
+
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
 
