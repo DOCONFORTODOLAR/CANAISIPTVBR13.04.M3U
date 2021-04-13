@@ -14,7 +14,7 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="", REDE TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1406806704.m3u8
 
-EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",BAND
+#EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",BAND
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w846543000.m3u8
 
 #EXTINF: 1 tvg -id = "" tvg-logo= "" group-title ="",
